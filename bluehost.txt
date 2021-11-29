@@ -1,0 +1,4 @@
+localhost:3306
+database spideru2_demo
+username spideru2_login
+password 12345
