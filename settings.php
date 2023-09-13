@@ -78,8 +78,6 @@
 					<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">profile-tab</div>
 					<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">contact-tab</div>
 				</div>
-
-
 			</div>
 
 			<!-- partial:../../partials/_footer.html -->
