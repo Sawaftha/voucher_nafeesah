@@ -64,7 +64,7 @@ img {
     <body>
         <div class="ticket">
             <img src="assets/images/Nafessah_logo_rescet.png" alt="Logo">
-            <p class="centered">إيصال رهن مسترد القيمة
+            <p class="centered">إيصال  رهن مسترد القيمة
                 <br>فرع خلدا
             </p>
             <table>
