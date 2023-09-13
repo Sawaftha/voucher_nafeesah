@@ -69,7 +69,7 @@ img {
             </p>
             <table>
                 <thead>
-                    <tr>
+                    <tr>//test 
                         <th class="quantity">التفاصيل</th>
                         <th class="description">البيان</th>
                         
