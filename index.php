@@ -7,5 +7,5 @@ header('Location:home_page.php');
   else{
       header('Location:login.php');
   }  
-    
-    ?>
+    // Sawaftah
+?>
